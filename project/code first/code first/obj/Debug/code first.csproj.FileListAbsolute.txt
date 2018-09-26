@@ -1,0 +1,11 @@
+C:\Users\Данил\Desktop\project\code first\code first\bin\Debug\code first.exe.config
+C:\Users\Данил\Desktop\project\code first\code first\bin\Debug\code first.exe
+C:\Users\Данил\Desktop\project\code first\code first\bin\Debug\code first.pdb
+C:\Users\Данил\Desktop\project\code first\code first\bin\Debug\EntityFramework.dll
+C:\Users\Данил\Desktop\project\code first\code first\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Данил\Desktop\project\code first\code first\bin\Debug\EntityFramework.xml
+C:\Users\Данил\Desktop\project\code first\code first\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Данил\Desktop\project\code first\code first\obj\Debug\code first.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\project\code first\code first\obj\Debug\code first.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\project\code first\code first\obj\Debug\code first.exe
+C:\Users\Данил\Desktop\project\code first\code first\obj\Debug\code first.pdb
